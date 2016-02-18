@@ -1,4 +1,10 @@
+Disp "GaussElim by Jon Damico"
+Disp "-----------------------"
+Disp "Please enter the matrix"
+Disp "You would like to Simplify"
+
 Input [J]
+
 dim([J])→⌊L11
 
 For(I,1,⌊L11(1))

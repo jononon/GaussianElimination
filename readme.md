@@ -1,10 +1,19 @@
 Gaussian Elimination
 ====================
+Jonathan Damico
 
-[![Version Number](https://img.shields.io/github/release/jononon/iHW-TI-84-CE.svg)](https://github.com/jononon/GaussianElimination) [![Tag](https://img.shields.io/github/tag/jononon/iHW-TI-84-CE.svg)](https://github.com/jononon/GaussianElimination)
-[![Issues](https://img.shields.io/github/issues/jononon/iHW-TI-84-CE.svg)](https://github.com/jononon/GaussianElimination)
+
+[![Version Number](https://img.shields.io/github/release/jononon/GaussianElimination.svg)](https://github.com/jononon/GaussianElimination.svg)
+[![Tag](https://img.shields.io/github/tag/jononon/GaussianElimination.svg)](https://github.com/jononon/GaussianElimination.svg)
+[![Issues](https://img.shields.io/github/issues/jononon/GaussianElimination.svg)](https://github.com/jononon/GaussianElimination.svg)
 
 ![Screenshot](http://puu.sh/nbX4n/2ef9b71e9c.png)
+
+##How to use this program
+1. Make and store a matrix for your equations.
+2. Press the `prgm` button, and select GAUSSIAN.
+3. Select the matrix which you would like to simplify and press enter.
+
 
 ##How to get this program
 ###Transfer
@@ -34,6 +43,3 @@ To download the program directly to your calculator, follow the following steps.
 * Click "Send"
 
 !["Send" button](http://puu.sh/jWR8y/42e05b3f18.png)
-
-##Launching the Program on the Calculator
-Press `prgm`, and select GAUSSIAN.
