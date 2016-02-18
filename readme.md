@@ -17,7 +17,7 @@ Jonathan Damico
 
 ##How to get this program
 ###Transfer
-[Contact me](http://jonathandamico.me/contact) and I will transfer this program to your calculator with a link cable.
+[Contact me](http://jonathandamico.me/contact) and I will transfer this program to your calculator using a link cable.
 
 ###Download
 To download the program directly to your calculator, follow the following steps.
