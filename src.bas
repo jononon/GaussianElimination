@@ -1,7 +1,7 @@
 Disp "GaussElim by Jon Damico"
 Disp "-----------------------"
 Disp "Please enter the matrix"
-Disp "you would like to Simplify"
+Disp "you would like to simplify"
 
 Input [J]
 
