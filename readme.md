@@ -12,6 +12,7 @@ Gaussian Elimination
 2. Press the `prgm` button, and select GAUSSIAN.
 3. Select the matrix which you would like to simplify and press enter.
 
+After running the program, the simplified matrix will be stored under matrix [J].
 
 ##How to get this program
 ###Transfer
