@@ -1,7 +1,5 @@
 Gaussian Elimination
 ====================
-Jonathan Damico
-
 
 [![Version Number](https://img.shields.io/github/release/jononon/GaussianElimination.svg)](https://github.com/jononon/GaussianElimination.svg)
 [![Tag](https://img.shields.io/github/tag/jononon/GaussianElimination.svg)](https://github.com/jononon/GaussianElimination.svg)
@@ -23,10 +21,7 @@ Jonathan Damico
 To download the program directly to your calculator, follow the following steps.
 
 * Download and Install the [TI Connect™ CE Software](https://education.ti.com/en/us/products/computer_software/connectivity-software/ti-connect-ce-software/tabs/overview)
-* Download this program by clicking "Download ZIP" on the right.
-
-!["Download ZIP" button](http://puu.sh/jWRgp/4a6940d1d3.png)
-* Unzip the download
+* Download this program by going to the [releases page](https://github.com/jononon/GaussianElimination/releases) and clicking "Gaussian Elimination.8xp"
 * Open the TI Connect™ CE Software and click on "Program Editor" on the left navigation sidebar.
 
 ![Program Editor](http://puu.sh/jWRl7/bbc01ee758.png)
@@ -42,4 +37,4 @@ To download the program directly to your calculator, follow the following steps.
 
 * Click "Send"
 
-!["Send" button](http://puu.sh/jWR8y/42e05b3f18.png)
+!["Send" button](http://puu.sh/nc1Z5/c0c13fbf9b.png)
