@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=system
+comment0.target=GaussianArray(double[][])
+comment1.params=k\ rowNumber
+comment1.target=void\ multiply(double,\ int)
+comment2.params=row1\ row2
+comment2.target=void\ swap(int,\ int)
+comment3.params=k\ row1\ row2
+comment3.target=void\ add(double,\ int,\ int)
+comment3.text=\n\ Adds\ two\ rows\ together\n\ @param\ k\ The\ scaling\ factor\ applied\ to\ the\ first\ row\n\ @param\ row1\ The\ number\ of\ the\ row\ to\ be\ added\ to\ row2\n\ @param\ row2\ The\ number\ of\ the\ row\ to\ be\ replaced\ after\ being\ added\ to\ row1\n
+comment4.params=
+comment4.target=void\ simplify()
+comment5.params=
+comment5.target=double[][]\ getSystem()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
