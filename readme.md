@@ -7,9 +7,13 @@ Gaussian Elimination
 
 ![Screenshot](http://puu.sh/nbX4n/2ef9b71e9c.png)
 
+##Programs
+* GAUSSIAN  - Uses gaussian elimination to simplify matrices
+* MATRXINV  - Takes a augmented matrix and uses row operations to solve for the inverse matrix
+
 ##How to use this program
 1. Make and store a matrix for your equations.
-2. Press the `prgm` button, and select GAUSSIAN.
+2. Press the `prgm` button, and select the program you want.
 3. Select the matrix which you would like to simplify and press enter.
 
 After running the program, the simplified matrix will be stored under matrix [J].
